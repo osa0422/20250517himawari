@@ -1,5 +1,6 @@
 from datetime import date
 
+# 次は２個の入出庫データーを格納するように変更する
 date.today()
 # 日付を取得
 current_day = date.today()
